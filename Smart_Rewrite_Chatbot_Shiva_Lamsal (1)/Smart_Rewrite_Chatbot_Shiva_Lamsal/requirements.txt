@@ -1,0 +1,4 @@
+# No external Python packages are required for the default app.
+# Tkinter, re, subprocess and argparse are included with the standard Python installation.
+# Optional local LLM extension: install Ollama separately, then run:
+# ollama pull llama3.2:3b
